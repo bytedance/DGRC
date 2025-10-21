@@ -1,0 +1,142 @@
+[
+    {
+        "id": "00022318",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please analyze the following citing text and determine which of the options (A, B, C, D, E) represents the correct holding. Citing Text: at 63. Therefore, Plaintiff has stated a claim against these Defendants under the Eighth Amendment. 3. Failure to Exhaust Defendants argue that Plaintiff has failed to fully administratively exhaust his claims against Schrader, Freeman, and Luciano as required by the Prison Litigation Reform Act (“PLRA”). (See Defs.’ Mem. 12-14.) The PLRA provides that “[n]o action shall be brought with respect to prison conditions under [§ ] 1983 of this title, or any other Federal law, by a prisoner confined in any jail, prison, or other correctional facility until such administrative remedies as are available are exhausted.” 42 U.S.C. § 1997e(a). The exhaustion requirement applies to all personal incidents while in prison, Porter v. Nussle, 534 U.S. 516, 532, 122 S.Ct. 983, 152 L.Ed.2d 12 (2002) (<HOLDING>); see also Johnson v. Killian, 680 F.3d 234,\nA. holding exhaustion is required for all inmate suits about prison life whether they involve general circumstances or particular episodes\nB. holding that an inmate has no right to any particular prison job but prison officials cannot discriminate against him on the basis of his race in work assignments\nC. holding that prison conditions are those aspects of prison life affecting the entire prison population\nD. holding that a prisoner has no constitutionallybased liberty interest in a particular prison classification  because an inmate is not entitled to a particular degree of liberty in prison\nE. holding that removal from house arrest and return to general prison population was a matter of inmate classification\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "00015721",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please analyze the following citing text and determine which of the options (A, B, C, D, E) represents the correct holding. Citing Text: affirmed, 905 P.2d 289, 295 (Utah 1995). In this case, once the officer discovered the driver was not the registered owner of the vehicle, but that a woman was, the officer had a legitimate purpose in ascertaining whether or not defendant was the owner. See State v. Johnson, 805 P.2d 761, 764 (Utah 1991) (finding officer, after discovering neither driver nor passenger were registered owner of vehicle, should have exercised right to inquire about registered owner). 2 . Défendant relies on unreasonable detention cases that are factually distinguishable from the case before us. In each of those cases, the detention was unreasonable because the officer did not have an articulable suspicion of criminal activity as to the defendant. See State v. Johnson, 805 P.2d 761, 764 (Utah 1991) (<HOLDING>); State v. Schlosser, 774 P.2d 1132, 1135 (Utah\nA. holding warrants check on passenger before officer inquired as to registered owner of suspected stolen car was unreasonable because officer had not formed reasonable articulable suspicion that defendant was engaged in any criminal activity\nB. holding officer had reasonable suspicion of criminal activity necessary to support traffic stop where officer received dispatch that defendant committed disorderly conduct and record check showed parked truck was registered to defendant\nC. recognizing that police officer may stop a suspect if the officer has a reasonable suspicion supported by articulable facts that criminal activity may be afoot\nD. holding defendants nervousness in part presented officer with reasonable articulable suspicion of criminal activity\nE. holding that an officer can stop an individual if the officer has reasonable articulable suspicion that criminal activity is underfoot\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "00031602",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please analyze the following citing text and determine which of the options (A, B, C, D, E) represents the correct holding. Citing Text: “the facts necessary to state a claim for relief.” Gray, 518 U.S. at 162-63, 116 S.Ct. 2074. First, Davis stated that he “was denied his due process rights under Wolff ... to have witness [sic.].” Second, he stated that he was charged with battery of a non-inmate. And, third, if the state court had simply cite checked the case, the statute, and the regulation provided in Davis’ petition, and read those sources in conjunction with the rest of his state habeas petition, the legal theory and operative facts would have become clear: Davis was charged with assaulting a non-prisoner, a disciplinary hearing took place to deny him good-time credits, and, at that hearing, he was denied a witness in violation of his due process rights under Wolff. Compare Baldwin, 541 U.S. at 33, 124 S.Ct. 1347 (<HOLDING>). CONCLUSION By reading Davis’ pro se state\nA. holding that utility customers mailing of a petition did not constitute the filing of the petition as filing was not effectuated until the petition was received by the clerk\nB. holding a petition unexhausted because the petition provides no citation of any case that might have alerted the court to the alleged federal nature of the claim and the petition does not contain a factual description supporting the claim citations omitted\nC. holding that the pendency of a petitioners federal habeas corpus petition does not divest a trial court of jurisdiction to address a pcra petition\nD. holding that a  2255 petition seeking only reinstatement of the right to a direct appeal does not render any later petition a second or successive petition under the aedpa\nE. holding that when a respondent fails to challenge factual allegations contained in a petition for the writ of mandamus the appellate court accepts as true the factual statements in the petition\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "00002515",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please analyze the following citing text and determine which of the options (A, B, C, D, E) represents the correct holding. Citing Text: is a “fact-intensive issue,” and requires more than a “defendant’s mere presence during a police search of a residence.” United States v. Payton, 636 F.3d 1027, 1043 (8th Cir.2011). Shores’s participation in this transaction outside of 3714 Melba Place the day before drugs were seized at the residence supports the inference that one of the purposes for which Shores maintained those premises during the relevant time period was the distribution of drugs. See United States v. Holliman, 291 F.3d 498, 502 (8th Cir.2002). Similarly, testimony describing Shores’s participation in a hand-to-hand transaction on September 15, 2009 also falls within the conduct charged in the two possession-with-intent-to-distribute charges. Cf. United States v. Williams, 165 F.3d 1193, 1195 (8th Cir.1999) (<HOLDING>). We conclude that the evidence is part of the\nA. holding defendant could only be sentenced to a single offense under section 1244011 not both conspiracy with intent to deliver and possession with intent to deliver\nB. holding that an allegation as to the time of the offense is not an essential element of the offense charged in the indictment and within reasonable time limits proof of any date before the return of the indictment and within the statute of limitations is sufficient\nC. holding that a witnesss description of the defendant giving him methamphetamine in exchange for a car was admissible because it relates to events occurring around the time period alleged in the superseding indictment and tended to prove an element of the offense of possession with intent to deliver methamphetamine\nD. holding that the dismissal of an indictment before trial and institution of a superseding indictment does not trigger double jeopardy\nE. holding an indictment legally insufficient when it failed to inform the defendant of the gravamen of the alleged offense\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "00019477",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please analyze the following citing text and determine which of the options (A, B, C, D, E) represents the correct holding. Citing Text: go beyond all possible bounds of decency, and to be regarded as atrocious, and utterly intolerable in a civilized community. . . . Such does not include mere insults, indignities, threats, annoyances, petty oppressions, or other vicissitudes of daily living. Plaintiffs are expected to be hardened to a certain amount of rough language and to occasional acts that are definitely inconsiderate and unkind. (Footnotes omitted.) Jarrard, supra, 242 Ga. App. at 59. Here, Martin’s conduct, including the assignment of arduous labor, obstruction of Wilcher’s ability to complete her work, and comments such as “Lori Reaves, Wilcher, whatever” when calling her over the intercom simply do not, as a matter of law, meet this standard. See Everett v. Goodloe, 268 Ga. App. 536, 545 (602 SE2d 284) (2004) (<HOLDING>). While Martin’s conduct appears to be annoying\nA. holding that the question of whether police had a reasonable basis for finding that a third party had authority to consent to search is a question of law\nB. holding that while the question of whether a reasonable person would believe his person was seized was normally a question of law that the district court was still entitled to deference because its determination in this case is inextricably intertwined with the credibility of the witnesses\nC. holding that the issue of whether distress was so extreme that no reasonable person could be expected to endure it is a question of law\nD. holding it is a question of fact\nE. holding that an alleged victim of sexual assault need not plead with graphic specificity any additional objective physical injury  and clearly experiences severe emotional distress that no reasonable person could be expected to endure\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "00014865",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please analyze the following citing text and determine which of the options (A, B, C, D, E) represents the correct holding. Citing Text: held by the federal instrumentality are “expressly excluded from such sales, and they are made by express terms, subject to all such prior rights, liens and interests.” Id. After New Brunswick, courts have treated an exercise of state power over a mortgage interest held by a federal i t actions by a state constitute a “deprivation,” under § 1825, the touchstone is whether a taxing entity’s action causes a “reduction in the value of the receivership’s assets.” Irving Independent School Dist. v. Packard Properties, 970 F.2d 58, 62 (5th Cir.1992). “Absent some actual devaluation of, or loss of rights in, FDIC ‘property,’ there is no ‘deprivation of property’ and § 1825(b)(2) is not violated ....” First State Bank-Keene v. Metroplex Petroleum, Inc., 155 F.3d 732, 739 (5th Cir.1998) (<HOLDING>); see also Verspoor, 145 F.3d at 690-91\nA. holding defendants ownership interest in texas company that was not party to lawsuit was not relevant to specific jurisdiction\nB. holding that a tax sale did not violate  1825b2 where under texas law the fdics interest was not devalued or extinguished since it had not been made a party to the suit\nC. holding that a lien cannot be extinguished through a tax sale without the consent of the fdic\nD. holding that a lien holder who is not served and joined as a party to a tax suit cannot have his lien extinguished by the tax sale\nE. holding that the fdics agent could assert  1821  to bar a claim for specific performance even when the fdic was not and could not have been a party to the case\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "00013660",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please analyze the following citing text and determine which of the options (A, B, C, D, E) represents the correct holding. Citing Text: no matter how meritorious one’s claim may appear at the outset, the course of litigation is rarely predictable. Decisive facts may not emerge until discovery or trial. The law may change or clarify in the midst of litigation. Even when the law or the facts appear questionable or unfavorable at the outset a party may have an entirely reasonable- ground for bringing suit. Chnstiansburg Garment Co. v. EEOC, 434 U.S. 412, 98 S.Ct. 694, 70 te “does not purport to confer immunity for actions unrelated to review process”). Also, because we cannot conclude the plaintiffs knew the defendants were immune at the outset of the litigation; we cannot say their challenge to the defendants’ immunity was not legitimate. See Meyers v. Columbia/HCA Healthcare Corp., 341 F.3d 461, 473 (6th Cir.2003) (<HOLDING>); Leak v. Grant Med. Ctr., 893 F.Supp. 757, 763\nA. holding where the plaintiff presented evidence which demonstrates that the terms alleged by the defendants to be indefinite were in fact sufficiently well delineated to all parties the entry of judgment notwithstanding the verdict in favor of the defendants was inappropriate despite the fact that the defendants contested the plaintiffs evidence concerning the manner in which the relevant contractual language should be construed\nB. holding a district court may in its discretion award attorneys fees upon a finding that plaintiffs action was frivolous unreasonable or without foundation even though not brought in subjective bad faith\nC. holding that courts may award prevailing title vii defendant attorney fees upon a finding that the plaintiffs action was frivolous unreasonable or without foundation even though not brought in subjective bad faith and fees also may be awarded if plaintiff continued to litigate after its action clearly became frivolous unreasonable or without foundation\nD. holding the bad faith rationale inapplicable given that the defendants acted in good faith in appealing the case and in raising defenses to the plaintiffs claims\nE. holding it was not unreasonable frivolous without foundation or in bad faith for plaintiffs to oppose the lmh defendants position on hcqia immunity because plaintiffs had valid questions concerning the manner in which the lmh defendants conducted the professional review of dr robert meyers and chose to resolve those issues in this court\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "E"
+            }
+        ]
+    },
+    {
+        "id": "00006834",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please analyze the following citing text and determine which of the options (A, B, C, D, E) represents the correct holding. Citing Text: failure to identify its standard of review and the lens through which it applies its judicial scrutiny perhaps explains its conclusions. In oy a presumption in favor of constitutionality, the Florida Supreme Court and this Court have repeatedly held that zoning restrictions must be upheld unless they bear no substantial relation to legitimate societal policies or it can be clearly shown that the regulation is a mere arbitrary exercise of the municipality’s police power. See Dep’t of Cmty. Affairs v. Moorman, 664 So.2d 930, 933 (Fla.1995) (“[W]e have repeatedly held that zoning restrictions must be upheld unless they bear no substantial relationship to legitimate societal policies.”); Harrell's Candy Kitchen, Inc. v. Sarasota-Manatee Airport Auth., 111 So.2d 439, 443 (Fla.1959) (<HOLDING>); City of Coral Gables v. Wood, 305 So.2d 261,\nA. holding that zoning regulations are presumptively valid and the burden is upon him who attacks such regulation to carry the extraordinary burden of both alleging and proving that it is unreasonable and bears no substantial relation to public health safety morals or general welfare\nB. holding that the government bears the burden of proving voluntary consent under the totality of the circumstances\nC. holding defendant bears the burden of proving an accord and satisfaction defense\nD. holding that the burden is on the plaintiff\nE. holding that the defendant bears the burden of proving outside contact with the jury\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "00014456",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please analyze the following citing text and determine which of the options (A, B, C, D, E) represents the correct holding. Citing Text: in exchange for non-interest-bearing trust accounts; and 9. a comprehensive program will result in increased administrative and record-keeping burdens. Several of these concerns have previously been addressed by this Court. In In re Interest on Trust Accounts, 402 So.2d at 395, we rejected a fifth amendment “taking” challenge to the voluntary program, reasoning that “no client is compelled to part with ‘property’ by reason of a state directive, since the program creates income where there had been none before, and the income thus created would never benefit the client under any set of circumstances.” We do not believe that the mandatory, as opposed to voluntary, nature of an IOTA program changes this analysis. See Carroll v. State Bar, 166 Cal.App.3d 1193, 213 Cal.Rptr. 305 (Ct.App.) (<HOLDING>), cert, denied sub nom. Chapman v. State Bar,\nA. holding that execution of the mentally retarded is prohibited under the eighth amendment to the united states constitution\nB. holding that a termination of a government contract does not constitute a taking of the plaintiffs property without just compensation or without due process of law\nC. holding that californias mandatory iota program does not involve a taking of property without just compensation as prohibited by the fifth amendment to the united states constitution\nD. holding that entitlement to benefits is a property interest protected by the due process clause of the fifth amendment to the united states constitution\nE. holding in the context of section 341 fifth that the mere existence of federal agediscrimination laws apparently including the adea does not create a property interest protected by the due process clause of the fifth amendment to the united states constitution in the form of job entitlements for government employees over a certain age\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "00005013",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please analyze the following citing text and determine which of the options (A, B, C, D, E) represents the correct holding. Citing Text: the evidence presented by the summary judgment record in a light most favorable to the party against whom the summary judgment was rendered, crediting evidence favorable to that party if reasonable jurors could and disregarding contrary evidence unless reasonable jurors could not. Mack Trucks, Inc. v. Tamez, 206 S.W.3d 572, 582 (Tex.2006) (citing City of Keller v. Wilson, 168 S.W.3d 802, 827 (Tex.2005)). When both sides move for summary judgment, and the trial court grants one motion and denies the other, the reviewing court considers both sides’ summary judgment evidence and determines all issues presented. Valence Operating Co. v. Dorsett, 164 S.W.3d 656, 661 (Tex.2005). Where the trial court does not specify the g rv., Inc., 798 S.W.2d 606, 615 (Tex.App.-Dallas 1990, writ denied) (<HOLDING>). Thus, the absence of a causal connection\nA. holding that plaintiffs consequential damages were too speculative because no evidence connected damages to defendants breach of contract\nB. holding that erisa provides relief only for clearly ascertainable damages with the intent to make plaintiffs whole which precludes recovery for speculative future harm\nC. holding that no recovery exists for speculative damages\nD. holding that nominal damages award was appropriate where the evidence supporting the damages was speculative\nE. holding such damages available where local law silent on issue speculative nature of damages does not preclude recovery\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    }
+]
