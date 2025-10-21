@@ -1,0 +1,142 @@
+[
+    {
+        "id": "aa240af7-9a6c-44dd-ab9a-ecb2c4cb5c28",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Umblical cord contains:\nA. 3 arteries & 1 vein\nB. 1 artery& 3 veins\nC. 1 artery & 1 vein\nD. 2 arteries & 1 vein\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ]
+    },
+    {
+        "id": "2cde59aa-666b-4fa6-802b-74ecdd525bfb",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "12 years old Shyam presented with gross hematuria with 80% dysmorphic RBC's 2 days after a attack of upper respiratory tract infection diagnosis is –\nA. Microangiopathic thrombotic anaemia\nB. IgA Nephropathy\nC. PSGN\nD. H.S. purpura\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "761c3922-2330-4ccc-9fc2-64911995760b",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Ponderal index is:\nA. Square root of height in feet by weight in grams\nB. Weight in kilograms by cube of height in meters\nC. Mid-upper arm circumference to head circumference ratio\nD. Head circumference to abdominal circumference ratio\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "4f22926c-1054-4056-8530-dd84d32600f9",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Monitoring and diagnosis after completion of H. pylori treatment is done through\nA. Gastric acid test\nB. urea breath test\nC. bacterial culture of stool\nD. sodium chloride test\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "46e4c25f-f518-43a9-bad7-481cb1a16416",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Before an arbitrary face bow transfer record, the dentist must determine:\nA. Physiologic rest position\nB. Inclination of each condyle\nC. Axial centre of rotation of condyle\nD. Kinematic axis of movement of condyle\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "e803c024-5cd2-48f7-a3d1-c72f5e1563a6",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which of the following is the diluting segment of kidney?\nA. PCT\nB. Collecting duct\nC. Ascending thick loop Henle\nD. Descending loop of Henle\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "164c3839-9da9-45da-bc1c-33e2174a6c17",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Pterygomandibular space contains all, except:\nA. Nerve to mylohyoid muscle\nB. Long buccal nerve\nC. Loose areolar tissue\nD. Nerve to medial pterygoid muscle\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "08bb32fa-e20c-4854-8b0f-6f661d7321ed",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In case of addition silicones what should be done for better cast\nA. Apply ketone over tray\nB. Apply chloroform over tray\nC. Add flavouring agent to prevent bad odour\nD. Delay pouring of cast\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ]
+    },
+    {
+        "id": "864ebcb5-85f5-45eb-a209-5d14ef53e787",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In judicial hanging, the knot is placed at:\nA. Below the chin\nB. Angle of the jaw\nC. The back of the neck\nD. Choice of hangman\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "c41e6817-ab7a-4208-aa4b-d89da0668ac9",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Serum chemistry analysis in a patient reveals pCo2=30mm Hg, pO2=105mm Hg, pH=7.46. This profile indicates\nA. Metabolic alkalosis\nB. Metabolic acidosis\nC. Respiratory alkalosis\nD. Respiratory acidosis\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    }
+]
