@@ -1,0 +1,142 @@
+[
+    {
+        "id": "00000007",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which is a 'rock' under the UN Convention of the Law of the Sea (UNCLOS)?\nA. Rocks are the islands that are less than 10 square miles\nB. Rocks are the islands that do not have any maritime zone\nC. Rocks are the islands which cannot sustain human habitation or economic life of their own and according to article 121 (3) have no Exclusive Economic Zone or continental shelf.\nD. Rocks are the small islands that can sustain human habitation\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "00000072",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the meaning of collective rights?\nA. Collective rights belong to distinct groups of people\nB. Collective rights are those that belong to particular groups as opposed to the individual members of the group\nC. Minority rights are collective rights\nD. Collective rights entail a right of the group as such as well as individual rights of the group's members\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "00000111",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the meaning of \"armed attack\" in Article 51 UN Charter?\nA. Armed attack includes all types of armed force\nB. Armed attack includes all high intensity instances of armed force\nC. Armed attack includes terrorist attacks\nD. An \"armed attack\" gives the right to invade the aggressor State\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "00000115",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "When a reservation is considered as invalid under the law of treaties?\nA. A reservation is invalid when the majority of the State parties objects to it\nB. A reservation is invalid only when an international tribunal says so\nC. A reservation is invalid only when is incompatible with a peremptory norm of international law (jus cogens)\nD. A reservation is invalid when it is incompatible with the object and purpose of the treaty\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ]
+    },
+    {
+        "id": "00000038",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is dualism?\nA. Dualism suggests that international and domestic law are part of a unified legal system\nB. Under dualism, international and domestic laws comprise distinct legal Systems\nC. Dualism suggests that international and domestic law are distinct but equal in hierarchy\nD. Dualism suggests that international and domestic law are distinct legal systems whereby domestic law always prevails\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "00000025",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In Osman v UK (1998), the European Court laid down a test, which can be used to apply a general positive obligation on a state. Which of the following statements is not part of the Osman test?\nA. The risk must emanate from a state agent\nB. If a real and imminent risk (of death/harm)\nC. A state should take reasonable steps to prevent death/harm occurring\nD. A state knows or ought to have known\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "00000109",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where do we find the 'general principles of law recognized by civilized nations' (article 38 ICJ Statute)?\nA. We look for established principles of law recognized only among the most civilised nations\nB. We look for established principles of law, which are common to all major legal systems\nC. We look for general principles of international law recognized by international courts and tribunals\nD. We look for general principles of law recognized by all nations\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "00000059",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Do third States enjoy any fishing rights within the Exclusive Economic Zone of another State?\nA. When the coastal State cannot harvest the 'total allowable catch', the coastal State is to give other State access to that surplus with priority to be given to developing and land-locked States\nB. Third States may never have access to fisheries within another State's EEZ\nC. The coastal State is to give access to fisheries within its EEZ only to neighbouring States\nD. Third States are free to fish within another EEZ, except from certain designated areas\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "00000061",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is passive personality jurisdiction?\nA. It is jurisdiction based on the nationality of the offender\nB. It is jurisdiction based on where the offence was committed\nC. It is jurisdiction based on the nationality of the victims\nD. It is jurisdiction based on the country where the legal person was Registered\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "00000051",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How are the members of the arbitral tribunal appointed?\nA. All the members of the arbitral tribunal are appointed by the parties\nB. All the members of the arbitral tribunal are appointed by the parties\nC. All the members of the arbitral tribunal are appointed by an impartial third party, such as the president of the ICJ\nD. All the members of the arbitral tribunal are appointed by the parties from a restricted list of arbitrators\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    }
+]
