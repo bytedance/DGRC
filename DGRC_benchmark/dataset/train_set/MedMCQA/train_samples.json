@@ -1,0 +1,142 @@
+[
+    {
+        "id": "cff07231-7064-4859-81e0-676489285de2",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "50 year old male presents with chronic right heart failure. The succumbs to his illness. On autopsy, liver shows following changes:\nA. Nutmeg liver\nB. Normal liver\nC. Hemosiderosis liver\nD. Liver failure\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "<think>Ans. (a) Nutmeg liverPathologically, the term nutmeg liver refers to the speckled appearance of the cut liver in chronic venous congestion, due to dilated and congested red central veins surrounded by paler, unaffected liver tissue (resembling a grated nutmeg kernel)Note the dark red congested regions that represent accumulation of RBC's in centrilobular regionsMicroscopically, the nutmeg pattern results from congestion around the central veinsNutmeg liver is most frequently seen in right heart failure QIf the passive congestion is pronounced, then there can be centrilobular necrosisIf chronic hepatic passive congestion continues for a long time, a condition called \"cardiac cirrhosis\" Q</think><answer>A</answer>"
+            }
+        ]
+    },
+    {
+        "id": "c2c366c9-ceaf-43b4-9067-32a363e53566",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Antidote of methanol poisoning:\nA. Fomepizole\nB. Foscarnet\nC. Morphine\nD. Bupropion\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "<think>Ans. A. FomepizoleAll the symptoms of methanol poisoning are due to toxic metabolite (formic acid). In order to prevent its formation, ethanol can be given or fomepizole which is competitive inhibitor of alcohol dehydrogenase, can be given.</think><answer>A</answer>"
+            }
+        ]
+    },
+    {
+        "id": "90800dbe-8c36-4833-a943-f7f20391131f",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Stem cells are taken from all except-\nA. Liver\nB. Bone marrow\nC. Blood\nD. Adipose tissue\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "<think>Reference :Robbins basic pathology 9th edition pg no 74: stem cells are rare and very dif cult to isolate to purity. Fuhermore, they occur in specialized microenvi- ronments within the organ called stem cell niches. Appar- ently, signals from other cells in such niches keep the stem cells quiescent and undifferentiated. Stem cell niches have been identi ed in many organs. In the brain, neural stem cells occur in the subventricular zone and dentate gyrus; in the skin, tissue stem cells are found in the bulge region of the hair follicle; and in the cornea, they are found at the limbus. Perhaps the most extensively studied tissue stem cells are hematopoietic stem cells found in the bone marrow. Although rare, they can be puri ed to viual purity based on cell surface markers. Hematopoietic stem cells can be isolated from bone marrow as well as from the peripheral blood after mobilization by administration of ceain cytokines such as granulocyte colony-stimulating factor (G-CSF).</think><answer>A</answer>"
+            }
+        ]
+    },
+    {
+        "id": "8e7d8631-528f-4175-bba1-195d5cce5729",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "All of the following are true about delirium except :\nA. It is the most common organic brain disorder\nB. Generalized slowing of waves are seen in EEG\nC. Auditory hallucinations are more commonly present\nD. Sundowning phenomenon is seen\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "<think>Visual hallucinations are the common perceptual disturbance seen in Delirium.</think><answer>C</answer>"
+            }
+        ]
+    },
+    {
+        "id": "253673c9-a78d-42a2-a6b9-f2314be5e09a",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Reed sternberg cells are found in?\nA. Hodkin's disease\nB. Sickle cell anaemia\nC. Thalassemia\nD. CML\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "<think>Ans. is 'a' i.e., Hodgkin's disease o Pathologically, Hodgkins disease is distinguished from other lymphomas by the presence of Reed Sternberg cells. o Reed sternberg cells are not absolutely specific for Hodgkins disease and have also been noticed in cases of infectious mononucleosis and other malignancies including lymphoma, carcinoma and sarcomas. o Therefore, Reed-Sternberg, cells are not sufficient to establish the diagnosis of Hodgkins disease. o The diagnosis of hodgkins' lymphoma requires the presence of both the characteristic Reed-Sternberg cells and the characteristics cellular environment comprising of lymphocytes, histiocytes, granulocytes, eosinophils and plasma cells. o One more method which can be useful in the diagnosis is invio in for CD-15 and CD-30. The neoplastic cells of Hodgkins disease, both classic Reed-sternberg cell and Reed-sterberg variants, tend to stain positively with these antibodies. o In addition R.S. cells of lymphocytic predominant cells are also positive for CD20. o Atypical cells can be seen in some types of Hodgkins disease, but they are not diagnostic.</think><answer>A</answer>"
+            }
+        ]
+    },
+    {
+        "id": "799f8664-d909-4b8c-b15d-08d8042c4e3f",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "The right of the oxygen dissociation curve shifted in:\nA. Fetal hemoglobin |\nB. 2,3 DPG|\nC. pH |\nD. Temperature |\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "<think>(pH4): Ref: 593-H, 581-SL, 667-G, 468-GTN (611- Ganong 23rd)* Fetal haemoglobin (HbF) does not bind, 2, 3 D PG, so it tends to have a higher oxygen affinity in vivo, the oxygen hemoglobin curve shifted to left:Right side shift of oxygen - hemoglobin dissociation curve - causes1. Increased CO2 concentration2. Increased temperature (Hyperthermia)3. Increased 2,3 DPG, DPG is a by product in EMP-pathway of carbohydrates metabolism. It is present in RBC, in conditions like muscular exercise and in high altitude, the DPG increased in RBC, so the oxygen, hemoglobin dissociation curve shifts to right to a great extent4. Decrease in partial pressure of oxygen5. Increase in hydrogen ion concentration and decrease in pH (Acidosis)6. In anemia, curve is shifted to right side (56-SL)Left side shift of oxygen-hemoglobin dissociation curve1. In fetal blood-because fetal hemoglobin has got more affinity for oxygen than the adult hemoglobin2. Decrease in H+ concentration and increase in pH (Alkalosis)3. Hypothermia4. Blood transfusion: - In stored blood, the 2,3DPG levels falls and the ability of this to release 02 to the t issue is reduced, this leads to curve shift to left side* The decrease in 2,3DPG can be prevented by adding substance such as inosine (hypoxanthine-ribose) to storage medium (32- Lippancott's 2nd)</think><answer>C</answer>"
+            }
+        ]
+    },
+    {
+        "id": "a3235391-bf33-4d19-a2a8-d6c786eb0980",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Immunoglobulin isotype class switching is determined by -\nA. Constant region of light chain\nB. Constant region of heavy chain\nC. Variable region of light chain\nD. Variable region of heavy chain\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "<think>Antibody genes also re-organize in a process called class switching that changes the one type of heavy chain Fc fragment to another, creating a different isotype of the antibody that retains the antigen specific variable region Ref: Ananthanarayan & Parkers textbook of microbiology 9th edition pg: 96</think><answer>B</answer>"
+            }
+        ]
+    },
+    {
+        "id": "9fb58a13-8f44-4a64-87d7-d46dbf2b8575",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "S file, False is\nA. Can also be called as Unifile\nB. Has double helical design\nC. Increased cutting efficiency than H file\nD. Increased fracture resistance than H file\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "<think> </think><answer>D</answer>"
+            }
+        ]
+    },
+    {
+        "id": "892a0708-fa8a-437f-b080-e8484a558aae",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Abdominal Aorta Bifurcates at the level of\nA. Body of L3\nB. Lower border of L3\nC. Lower border of L4\nD. Body of L4\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "<think>Abdominal Aorta Bifurcates at the Lower border of L4</think><answer>C</answer>"
+            }
+        ]
+    },
+    {
+        "id": "bc896b34-5938-433b-9b62-cce708a274b4",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Cocaine overdose presents with all of the following except :\nA. Diaphoresis\nB. Hypertension\nC. Constricted pupils\nD. Agitation\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "<think> </think><answer>C</answer>"
+            }
+        ]
+    }
+]
