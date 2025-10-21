@@ -1,0 +1,142 @@
+[
+    {
+        "id": "MedQA_test_00001149",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "A 21-month-old boy is brought to the physician for a well-child examination. His mother noticed deformities in both of his legs since he started walking independently. He has been healthy apart from an upper respiratory tract infection 6 months ago. He was delivered at 38 weeks' gestation. His 6-year-old sister was treated for developmental dysplasia of the hip. He can kick a ball and say a 2-word phrase. He plays well with other children at his day care. His immunizations are up-to-date. He is at the 40th percentile for height and 50th percentile for weight. Vital signs are within normal limits. Examination shows closed anterior and posterior fontanelles. The knees do not stay together when both the feet and ankles are placed together. The gait is unremarkable. The mother is concerned that he has a growth disorder. Which of the following is the most appropriate next step in management?\nA. Vitamin D supplementation\nB. Reassurance and follow-up\nC. X-ray of the lower extremities\nD. Bracing of the lower extremities\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "MedQA_test_00000507",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "A 68-year-old man comes to the emergency department because of a cough, dyspnea, and fever for 1 day. The cough is productive of small amounts of green phlegm. He has metastatic colon cancer and has received three cycles of chemotherapy with 5-fluorouracil, leucovorin, and oxaliplatin; his last chemotherapy session was 2.5 months ago. He has chronic obstructive pulmonary disease and has been treated with antibiotics and prednisolone for acute exacerbations three times in the past year. His medications include a fluticasone-salmeterol inhaler and a tiotropium bromide inhaler. He has smoked one pack of cigarettes daily for 48 years. His temperature is 39.1°C (103.1°F), pulse is 112/min, respirations are 32/min, and blood pressure is 88/69 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 88%. Pulmonary examination shows diffuse crackles and rhonchi. An x-ray of the chest shows a left upper-lobe infiltrate of the lung. Two sets of blood cultures are obtained. Endotracheal aspirate Gram stain shows gram-negative rods. Two large bore cannulas are inserted and intravenous fluids are administered. Which of the following is the most appropriate pharmacotherapy?\nA. Ceftriaxone and azithromycin\nB. Ertapenem\nC. Colistin\nD. Cefepime and levofloxacin\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ]
+    },
+    {
+        "id": "MedQA_test_00001081",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "A 62-year-old woman comes to the physician because of a 6-month history of progressive pain and stiffness of the fingers of her right hand. The stiffness is worse at the end of the day. She recently retired after working for 28 years as a typist at a data entry firm. Physical examination shows swelling, joint-line tenderness, and decreased range of motion of the first metacarpophalangeal joint and the distal interphalangeal joints of the right hand. Discrete, hard, mildly tender nodules are palpated over the 2nd and 4th distal interphalangeal joints of the right hand. An x-ray of her right hand shows narrowing of the interphalangeal joint spaces with subchondral sclerosis and osteophytes. Which of the following is the most likely underlying mechanism of this patient's condition?\nA. Bacterial infection of the joint space\nB. Autoimmune-mediated cartilage erosion\nC. Calcium pyrophosphate dihydrate crystal precipitation in the joints\nD. Degenerative disease of the joints\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ]
+    },
+    {
+        "id": "MedQA_test_00000175",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "A 23-year-old man is brought to the emergency department 25 minutes after being involved in a high-speed motor vehicle collision in which he was the restrained driver. On questioning by the paramedics, he reported severe chest pain and mild dyspnea. On arrival, he is confused and unable to provide a history. His pulse is 93/min, respirations are 28/min, and blood pressure is 91/65 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 88%. He is able to move his extremities in response to commands. He opens his eyes spontaneously. Pupils are equal and reactive to light. Examination shows multiple bruises over the trunk and extremities. There is a 3-cm (1.2-in) wound at the left fifth intercostal space at the midclavicular line. There is jugular venous distention. Decreased breath sounds and hyperresonance on percussion are noted on the left. Which of the following is the most appropriate next step in management?\nA. CT scan of the chest\nB. Bronchoscopy\nC. Emergency thoracotomy\nD. Needle decompression\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ]
+    },
+    {
+        "id": "MedQA_test_00000308",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "A 50-year-old man with congestive heart failure (CHF) was started on an experimental analog of atrial natriuretic peptide. Which of the following would he expect to experience?\nA. Increased water reabsorption by the renal collecting ducts\nB. Vasoconstriction, increased blood pressure, aldosterone release\nC. Increased glomerular filtration rate, restricted aldosterone release, vascular smooth muscle dilation\nD. Increased plasma calcium and decreased renal reabsorption of phosphate\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "MedQA_test_00000020",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "A 77-year-old woman presents to the emergency room with the complaints of fever, malaise, and night sweats. She recently observed an enlargement of her axillary lymph nodes, which she examines on a weekly basis. She has a remote history of breast cancer in her 60s that was treated with radiation and chemotherapy. She also reports a history of extensive travel to Africa and a 30-pack-year history of smoking. On physical exam, several axillary lymph nodes are palpable with a large non-tender palpable mass in her right axilla measuring 10 x 8 cm. Fine-needle aspiration demonstrates what the pathologist describes as \"a centroblastic and immunoblastic cell presence, suspicious for non-Hodgkin’s lymphoma (NHL)–diffuse large B cell variant\". Which of the following risk factors is responsible for this patient’s condition?\nA. Travel to Africa\nB. Axillary lymph node involvement\nC. Previous radiation therapy\nD. Previous breast cancer\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "MedQA_test_00000829",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "A 66-year-old man presents to the emergency department for a cough and fatigue. The patient was brought in from a nursing home with documentation stating that he has seemed confused for the past day according to the staff. The patient has a past medical history of diabetes and hypertension. He is currently taking insulin, metformin, lisinopril, and atorvastatin. His temperature is 102°F (38.9°C), blood pressure is 107/58 mmHg, pulse is 120/min, respirations are 15/min, and oxygen saturation is 98% on room air. Physical exam reveals crackles on pulmonary exam and S4 on cardiac auscultation. Which of the following is the next best step in management?\nA. Azithromycin and admission to the medical floor\nB. Azithromycin and discharge\nC. Azithromycin, moxifloxacin, and admission to the intensive care unit\nD. Moxifloxacin and admission to the medical floor\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ]
+    },
+    {
+        "id": "MedQA_test_00001110",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "A previously healthy 16-year-old boy comes to the physician because of a 5-day history of pain at the back of his left ankle. His mother had a myocardial infarction at 54 years. His BMI is 23 kg/m2. There is tenderness above the left posterior calcaneus and a firm, 3-cm, skin-colored nodule that moves with the left Achilles tendon. A photomicrograph from a biopsy of the nodule is shown. Serum studies in this patient are most likely to show increased levels of which of the following?\nA. Rheumatoid factor\nB. Angiotensin converting enzyme\nC. Low-density lipoprotein\nD. Triglycerides\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "MedQA_test_00000741",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "A researcher conducts multiple experiments to establish an infection and disease model for Clostridium perfringens in chickens. To ensure that all instruments are free of the pathogenic organism, he uses a disinfectant that oxidizes and denatures proteins. Which of the following disinfectants did the researcher most likely use?\nA. Chlorine dioxide\nB. Isopropyl alcohol\nC. Povidone-iodine\nD. Benzalkonium chloride\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "MedQA_test_00000459",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "A 14-year-old obese boy presents with severe right hip and knee pain. The patient says that he has been limping with mild pain for the past three weeks, but the pain acutely worsened today. He describes the pain as severe, non-radiating, sharp and aching in character, and localized to the right hip and knee joints. The patient denies recent illness, travel, trauma, or similar symptoms in the past. No significant past medical history and no current medications. The patient is not sexually active and denies any alcohol, smoking or drug use. The vital signs include: temperature 37.0°C (98.6°F), blood pressure 110/70 mm Hg, pulse 72/min, respiratory rate 15/min, and oxygen saturation 99% on room air. Body mass index (BMI) is 32 kg/m2. On physical examination, the patient is alert and cooperative. The right leg is externally rotated, and there is a limited range of motion in the right hip. Strength is 4 out of 5 at the right hip joint and 5 out of 5 elsewhere. There is no tenderness to palpation. No joint erythema, edema or effusion present. Sensation is intact. Deep tendon reflexes are 2+ bilaterally. Laboratory tests are unremarkable. Plain radiographs of the right hip joint are significant for displacement of the right femoral head inferoposterior off the femoral neck. Which of the following is the most appropriate course of treatment for this patient?\nA. Reassess in 3 months\nB. Intra-articular corticosteroid injection of the right hip joint\nC. Pavlik harness\nD. Surgical pinning of the right hip\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ]
+    }
+]
