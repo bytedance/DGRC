@@ -1,0 +1,142 @@
+[
+    {
+        "id": "00000058",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Regarding exons, which, if any, of the following statements is correct?\nA. Some exons in protein-coding genes consist of noncoding DNA.\nB. The first exon of a protein-coding gene always contains the translational start site.\nC. The last exon of a protein-coding gene always contains the normal termination codon.\nD. A coding exon is always translated in just one of the three possible forward reading frames.\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "00000075",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which of the following statements about Hirschsprung disease is incorrect?\nA. It shows an association with Down syndrome.\nB. It is more common in girls than in boys.\nC. RET is a major susceptibility gene.\nD. Recurrence risks are greater for long segment disease than for short segment disease.\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "00000030",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "The mutational mechanism in δβ-thalassaemia consists of:\nA. a deletion.\nB. a duplication.\nC. an insertion.\nD. a point mutation.\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "00000094",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Complete the following sentence. The Philadelphia chromosome:\nA. is an example of gene amplification.\nB. is a product of a reciprocal translocation.\nC. causes Burkitt's lymphoma.\nD. causes retinoblastoma.\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "00000086",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which of the following trisomy karyotypes has the mildest effect on human development?\nA. 47,XXX\nB. 47,XXY\nC. 47,XX,+13\nD. 47,XY,+21\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "00000063",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "An Hfr strain of E. coli contains:\nA. a vector of yeast or bacterial origin which is used to make many copies of a particular DNA sequence\nB. a bacterial chromosome with a human gene inserted\nC. a bacterial chromosome with the F factor inserted\nD. a human chromosome with a transposable element inserted\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "00000006",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Intergenerational transmission to offspring can occur as a result of parental exposures to ______.\nA. war\nB. natural disasters\nC. hunger\nD. all of these\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ]
+    },
+    {
+        "id": "00000059",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In humans, each cell normally contains ______ of chromosomes.\nA. 11 pairs\nB. 23 pairs\nC. 32 pairs\nD. 46 pairs\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ]
+    },
+    {
+        "id": "00000041",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If an X-linked recessive disorder is in Hardy-Weinberg equilibrium and the incidence in males equals 1 in 100, then the expected incidence of affected homozygous females would be _______.\nA. 1 in 1000\nB. 1 in 4000\nC. 1 in 10 000\nD. 1 in 40 000\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "00000068",
+        "image": [],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "The most common chromosome abnormality in first trimester spontaneous miscarriages is:\nA. trisomy.\nB. monosomy.\nC. triploidy.\nD. tetrasomy.\nPlease think carefully step by step, and then give the final answer. The output format is as follows: <think> your thinking process </think><answer> final answer ( only the option's letter from the given choices.) </answer>"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    }
+]
