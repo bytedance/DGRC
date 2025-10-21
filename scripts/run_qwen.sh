@@ -1,0 +1,12 @@
+python3 src/inference.py \
+    --model_path "model/Qwen2.5-7B-Instruct" \
+    --lora_path "" \
+    --use_flash_attention \
+    --acceleration "vllm" \
+    --model_class "Qwen2Model" \
+    --task_list "train_set/MedMCQA" \
+    --batch_size 32 \
+    --data_path DGRC_benchmark/dataset \
+    --save_path results_student \
+    --save_id Qwen2.5-7B-Instruct \
+    --samples 8
